@@ -1,5 +1,5 @@
 Steps to Executive Assignment
-1. Install node JS 8+ Version;
+1. Install node JS 8+ Version & mongodb ;
 2. Extract the project file // CRUD.zip
 3. open terminal Or CMD and change the location to extracted project location
 4. type " npm i " and press enter
